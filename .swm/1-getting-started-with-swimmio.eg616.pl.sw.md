@@ -1,6 +1,6 @@
 ---
 id: eg616
-title: Getting Started With Swimm.io
+title: 1. Getting Started With Swimm.io
 file_version: 1.1.1
 app_version: 1.1.0
 ---

@@ -1,6 +1,6 @@
 ---
 id: 2hk7q
-title: ∟ Swimm's feature set
+title: 2. Feature set
 file_version: 1.1.1
 app_version: 1.1.0
 ---
@@ -15,6 +15,7 @@ In this playlist we will get start to know them. Let's dive right in 🌊
 <!-- Steps - Do not remove this comment -->
 1. [∟ 👀 Live Snippets](live-snippets.mio0y.sw.md)
 2. [∟ 🤓 Smart Text](smart-text.fpz6g.sw.md)
+3. [∟ 🦄 Auto-Sync Magic ](auto-sync-magic.jyomo.sw.md)
 
 
 <br/>
