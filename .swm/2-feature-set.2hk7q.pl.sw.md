@@ -16,6 +16,7 @@ In this playlist we will get start to know them. Let's dive right in 🌊
 1. [∟ 👀 Live Snippets](live-snippets.mio0y.sw.md)
 2. [∟ 🤓 Smart Text](smart-text.fpz6g.sw.md)
 3. [∟ 🦄 Auto-Sync Magic ](auto-sync-magic.jyomo.sw.md)
+4. [∟ IDE integrations](ide-integrations.o5dcr.sw.md)
 
 
 <br/>
