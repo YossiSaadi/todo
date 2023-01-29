@@ -16,7 +16,7 @@ So grab your floaties, and let's get started! 🏊
 <!-- Steps - Do not remove this comment -->
 1. [∟ A quick into about Swimm](a-quick-into-about-swimm.q3ey7.sw.md)
 2. [∟ Swimm Vs. Other tools](swimm-vs-other-tools.98z5a.sw.md)
-3. [∟ 3 Dev Stories](3-dev-stories.4ppql.sw.md)
+4. [∟ About this demo repository](about-this-demo-repository.lejrf.sw.md)
 
 
 <br/>
