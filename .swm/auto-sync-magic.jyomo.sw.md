@@ -19,6 +19,7 @@ When your code changes, your documentation needs to be updated.
 <br/>
 
 ## Try it yourself!
+⚠️ In order to fix the snippets below, you need to enter "Edit Mode"
 
 ### Minor Change
 
