@@ -50,19 +50,19 @@ export default class Store {
 	 *	 // data shall contain items whose completed properties are true
 	 * })
 	 */
-	find(query, callback) {
-		const todos = this.getLocalStorage();
-		let k;
-
-		callback(todos.filter(todo => {
-			for (k in query) {
-				if (query[k] !== todo[k]) {
-					return false;
-				}
-			}
-			return true;
-		}));
+	function find(query, callback) {
+	  const todos = this.getLocalStorage();
+	  let filteredTodos = todos.filter(function(todo) {
+	    for (let key in query) {
+	      if (query[key] !== todo[key]) {
+		return false;
+	      }
+	    }
+	    return true;
+	  });
+	  callback(filteredTodos);
 	}
+
 
 	/**
 	 * Update an item in the Store.
