@@ -7,14 +7,21 @@ app_version: 1.1.0
 
 "Smart Text" refers to either tokens or paths that are being tracked and synced. Smart Tokens help you keep your documentation up to date by allowing you to reference parts of your code, even outside of snippets, in a way that automatically updates when the code changes. The most common use for Smart Tokens is referencing variable, method, or function names within the document.
 
+<br/>
+
+|## Example<br><br>Click on the tokens below. They are synced with the repo.<br/><br>When the code changes, we will be able to manage that.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|In our repository `todo` we are using vanilla Javascript to create basic components that are common in modern frameworks.<br><br>We have created a `Template`<swm-token data-swm-token=":examples/vanilla-es6/src/template.js:5:6:6:`export default class Template {`"/> _class_ to handle the main view that renders the contents.<br><br>Our `View`<swm-token data-swm-token=":examples/vanilla-es6/src/view.js:9:6:6:`export default class View {`"/> _class_ emulates the rendering of a `Template`<swm-token data-swm-token=":examples/vanilla-es6/src/template.js:5:6:6:`export default class Template {`"/> and tracking the responsiveness.<br><br>The state of our app is managed by our own created `Store`<swm-token data-swm-token=":examples/vanilla-es6/src/store.js:3:6:6:`export default class Store {`"/>|
+
+<br/>
+
+<br/>
+
 ## Try it yourself!!
 
 1.  Enter to Edit Mode (if haven't already)
     
 2.  Type below a backtick "\`" and look for a class, a function or a variable
-    
-
-<br/>
 
 <br/>
 
