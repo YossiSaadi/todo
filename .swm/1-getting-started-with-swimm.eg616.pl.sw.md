@@ -1,22 +1,40 @@
 ---
 id: eg616
-title: 1. Getting Started With Swimm.io
+title: 1. Getting started with Swimm
 file_version: 1.1.1
 app_version: 1.1.0
 ---
 
 <!-- Intro - Do not remove this comment -->
-Welcome to the world of Swimm ! Are you ready to dive into the pool of seamless integration and streamlined documentation? Look no further, because our guide for "Getting Started With Swimm" is here to guide you every step of the way.<br/>
-Whether you're a seasoned pro or just starting out, we've got you covered.
+### 👋 Welcome
 
+Welcome to the world of **Swimm**, the knowledge management tool for code.<br/>
+In this short guide you will get to know Swimm and its abilities.
+
+### About this Playlist
+
+What you are reading right now is called a "**Playlist**".<br/>
+It is a collection of documents grouped together in a particular order.
+
+*   Learn and play around with the **demo repository** provided
+    
+*   Learn about what is possible with the **Swimm webapp** and **IDE integrations**
+    
+
+### Ready to start?
+
+When you are ready, **connect your own repository** and see how Swimm can impact your teams productivity.<br/>
 So grab your floaties, and let's get started! 🏊
 
 <br/>
 
+<br/>
+
 <!-- Steps - Do not remove this comment -->
-1. [∟ A quick into about Swimm](a-quick-into-about-swimm.q3ey7.sw.md)
-2. [∟ Swimm Vs. Other tools](swimm-vs-other-tools.98z5a.sw.md)
-4. [∟ About this demo repository](about-this-demo-repository.lejrf.sw.md)
+1. [About this demo repository](about-this-demo-repository.q3ey7.sw.md)
+2. [Swimm Vs. other tools](swimm-vs-other-tools.98z5a.sw.md)
+3. [∟ About this demo repository](about-this-demo-repository.lejrf.sw.md)
+4. [2. Feature set](https://swimm-web-app.web.app/repos/dummy-repo/playlists/2hk7q)
 
 
 <br/>

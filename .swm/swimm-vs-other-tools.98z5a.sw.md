@@ -1,43 +1,43 @@
 ---
 id: 98z5a
-title: ∟ Swimm Vs. Other tools
+title: Swimm Vs. other tools
 file_version: 1.1.1
 app_version: 1.1.0
 ---
 
-Swimm is a powerful documentation tool for engineering teams, with features that set it apart from others like Notion or Confluence. Swimm streamlines internal code documentation and allows for seamless connection to your code, ensuring documentation is always up-to-date.
+Swimm is a powerful documentation tool for engineering teams, with features that set it apart from others like Notion or Confluence. Swimm streamlines internal code documentation and allows for seamless connection to your code, ensuring documentation is always up to date.
 
-## Features Comparison
-
-<br/>
-
-|**Feature set**                 |**Swimm**                       |Confluence     |Notion         |
-|--------------------------------|--------------------------------|---------------|---------------|
-|Ticket Management               |❌                               |✅              |✅              |
-|Documentation Management        |Basic                           |✅              |✅              |
-|Templates                       |**IT**\-**related**, **Dynamic**|General, Static|General, Static|
-|Maintaining documents up to date|🏆                              |❌              |❌              |
-|Find documents (Web / App)      |✅                               |✅              |✅              |
-|Find documents in the IDE       |🏆                              |❌              |Basic          |
-|Create or Edit docs in the IDE  |🏆                              |❌              |❌              |
-|Slack Integrations              |✅                               |✅              |✅              |
-|CI Integrations                 |✅                               |❌              |❌              |
+## Features comparison
 
 <br/>
 
-## Use Cases
+|**Feature set**                                                                                                                                       |**Swimm**                       |Confluence     |Notion         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|---------------|---------------|
+|[Maintaining documents up to date](https://docs.swimm.io/Features/keeping-docs-up-to-date)                                                            |✅ + 🤯                          |❌              |❌              |
+|[Find documents in the IDE](https://docs.swimm.io/ide-integrations/ide-plugins)<br/><br>(documentation finds you rather<br/><br>the other way around )|✅ + 🤯                          |❌              |Basic          |
+|[Playlists](https://docs.swimm.io/Features/Swimm-Playlists)                                                                                           |✅                               |❌              |❌              |
+|Find documents (Web / App)                                                                                                                            |✅                               |✅              |✅              |
+|Slack Integrations                                                                                                                                    |✅                               |✅              |✅              |
+|[CI Integrations](https://docs.swimm.io/continuous-integration/github-app)                                                                            |✅                               |❌              |❌              |
+|Templates                                                                                                                                             |**IT**\-**related**, **Dynamic**|General, Static|General, Static|
+|Ticket Management                                                                                                                                     |❌                               |✅              |✅              |
+|Documentation Management                                                                                                                              |Basic                           |✅              |✅              |
+
+<br/>
+
+## Use cases
 
 <br/>
 
 |**Use Case**                          |**Swimm**|Confluence|Notion|
 |--------------------------------------|---------|----------|------|
-|General Documentation                 |Basic    |✅         |✅     |
-|Client Facing (Publish)               |Manual   |✅         |✅     |
-|Continouse Documentation              |✅        |❌         |❌     |
+|Continuous Documentation              |✅        |❌         |❌     |
 |Code Walkthroughs                     |✅        |❌         |❌     |
 |General Onboarding                    |✅        |✅         |✅     |
 |Codebase related Onboarding           |✅        |❌         |❌     |
 |Document a complex System Architecture|✅        |❌         |❌     |
+|General Documentation                 |Basic    |✅         |✅     |
+|Client Facing (Publish)               |Manual   |✅         |✅     |
 
 <br/>
 

@@ -1,6 +1,6 @@
 ---
 id: fpz6g
-title: ∟ 🤓 Smart Text
+title: 🤓 Smart text
 file_version: 1.1.1
 app_version: 1.1.0
 ---
