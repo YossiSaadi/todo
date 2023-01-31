@@ -5,7 +5,7 @@ file_version: 1.1.1
 app_version: 1.1.0
 ---
 
-Swimm is a powerful knowledge management tool for code with features that set it apart from other tools like Notion and Confluence. Swimm streamlines internal code documentation for engineering teams documenting the most critical areas of the code, ensuring documentation is up to date.
+Swimm is a powerful knowledge management tool for code, with features that set it apart from other tools like Notion and Confluence. Swimm streamlines internal code documentation for engineering teams documenting the most critical areas of the code, ensuring documentation is up to date.
 
 ## Features comparison
 
@@ -29,9 +29,9 @@ Swimm is a powerful knowledge management tool for code with features that set it
 
 <br/>
 
-|**Use case**                          |**Swimm**|Confluence|Notion|
+|**Use cases**                         |**Swimm**|Confluence|Notion|
 |--------------------------------------|---------|----------|------|
-|Continuous documentation              |✅        |❌         |❌     |
+|Continuous Documentation              |✅        |❌         |❌     |
 |Code walkthroughs                     |✅        |❌         |❌     |
 |General onboarding                    |✅        |✅         |✅     |
 |Codebase related onboarding           |✅        |❌         |❌     |

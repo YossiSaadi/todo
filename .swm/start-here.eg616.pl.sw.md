@@ -14,23 +14,6 @@ We’ve prepared a Playlist so you’ll get to know Swimm’s features up close.
 
 <br/>
 
-### About this Playlist
-
-A [playlist](https://docs.swimm.io/Features/Swimm-Playlists/) is a collection of documents grouped together in a particular order.
-
-*   Playlists also include links, videos, Markdown files, and images and live right inside your repo.
-    
-*   Swimm keeps track of progress in a Playlist, so you don’t have to remember where you’ve left off.
-    
-
-### How to get started
-
-*   💪 Play around with the **demo repository** provided so you can see Swimm in action
-    
-*   🤓 Learn about what you can do with Swimm’s **Web App** and **IDE integrations**.
-
-<br/>
-
 <!-- Steps - Do not remove this comment -->
 1. [A quick into about Swimm](a-quick-into-about-swimm.vacve.sw.md)
 2. [Swimm Vs. other tools](swimm-vs-other-tools.uqpad.sw.md)
