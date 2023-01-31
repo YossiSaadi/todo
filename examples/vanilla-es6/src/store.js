@@ -64,7 +64,6 @@ export default class Store {
 		}));
 	}
 
-
 	/**
 	 * Update an item in the Store.
 	 *
