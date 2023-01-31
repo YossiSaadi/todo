@@ -5,15 +5,15 @@ file_version: 1.1.1
 app_version: 1.1.0
 ---
 
-## What are live Snippets?
+## What are Live Snippets?
 
-Live snippets are pieces of code from your repository, embedded into your documents.
+Live Snippets are pieces of code from your repository, embedded into your documents.
 
-**Example for a live snippet:**
+**Example for a Live Snippet:**
 
 <br/>
 
-The below code defines a function called "$on" that binds an event listener to a target element and takes four arguments. The function uses the addEventListener method of the target object to bind the event listener and passes.<br/>
+The snippet below defines a function called "$on" that binds an event listener to a target element and takes four arguments. The function uses the addEventListener method of the target object to bind the event listener and passes.<br/>
 _(see this purple dotted underline above? this is a code-coupling suggestion. learn more about it_ [emhere](https://docs.swimm.io/Features/code-coupling-suggestions)_)_
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 examples/vanilla-es6/src/helpers.js
@@ -29,19 +29,19 @@ _(see this purple dotted underline above? this is a code-coupling suggestion. le
 
 ## 🏁 Try it yourself!
 
-Get into edit mode (if you aren't already)
+Go to edit mode - if you’re not already in edit mode.
 
-Type below 👇👇👇 "/snippet" followed by an Enter.
-
-<br/>
+Type 👇👇👇 "/snippet" below, followed by an Enter.
 
 <br/>
 
-## The benefits of Swimm Live snippets
+## The benefits of Swimm Live Snippets
 
-✅ Using parts of your code in your documents does most of the work for you. Let the code explain what it does, and you - explain the underlying assumptions and connections between different code areas.
+✅ Using parts of your code in your documents does most of the work for you.<br/>
+Let the code explain what it does, and you explain the underlying assumptions and connections between different code areas.
 
-✅ The Swimm Auto-sync algorithm will take care of tracking the code in the document. making sure the document is always up-to-date as the code evolves.
+✅ Swimm’s Auto-sync algorithm takes are of tracking the code in the document,<br/>
+making sure the document is always up to date as the code evolves.
 
 <br/>
 
@@ -51,9 +51,9 @@ Type below 👇👇👇 "/snippet" followed by an Enter.
 
 <br/>
 
-## Live Snippets and the IDE
+## Live snippets and the IDE
 
-The illustration above shows how you can find snippets in your **Swimm IDE extension**
+The illustration above shows how you can find snippets in your **Swimm IDE extension.**
 
 <br/>
 

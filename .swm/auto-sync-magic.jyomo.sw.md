@@ -7,7 +7,7 @@ app_version: 1.1.0
 
 ## What happens when your code changes?
 
-When your code changes, your documentation needs to be updated.
+When your code changes, Swimm determines if it’s a minor or major change, and your doc is updated.
 
 <br/>
 
@@ -33,7 +33,9 @@ The developer changed 2 things:
 
 Swimm detects code changes and shows the diff.
 
-**Click "Accept" to "fix" it** (⚠️ you will need to enter "Edit Mode").
+In order to fix the snippets below, go to edit mode.
+
+**Click "Accept" to "fix" it**.
 
 <br/>
 
@@ -57,7 +59,7 @@ we're using the `escapeForHTML`<swm-token data-swm-token=":examples/vanilla-es6/
 
 ### Major Change
 
-In this example, the function has been completely refactored and caused a **radical** change of the original code.
+In this example, the function has been completely refactored and and Swimm considers this a major change.
 
 At this point, the person familiar with change should get a decision. Either to replace this snippet to the correct one, or remove it.
 
@@ -93,8 +95,6 @@ This function `find`<swm-token data-swm-token=":examples/vanilla-es6/src/store.j
 Your code-coupled elements are now updated in your doc.
 
 **The next step** would be to commit your changes to your repository, open a pull request and merge your branches for your team to have the latest documentation.
-
-<br/>
 
 <br/>
 

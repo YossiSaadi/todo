@@ -1,22 +1,22 @@
 ---
 id: o5dcr
-title: IDE integrations
+title: 👩‍💻 IDE integrations
 file_version: 1.1.1
 app_version: 1.1.0
 ---
 
-Documentation is useful if you can find it when you need it and where you need it the mose.
+Documentation is most useful when you can easily find documents when you need them most - in your IDE.
 
-For developers that means in the IDE.
+This eliminates interrupting your workflow.
 
 <br/>
 
-|<br/>                                                               |VS Code                                                                  |JetBrains                                                                            |
-|--------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|Install                                                             |[JetBrains marketplace](https://plugins.jetbrains.com/plugin/20716-swimm)|[VSCode marketplace](https://marketplace.visualstudio.com/items?itemName=Swimm.swimm)|
-|Read all available docs right in your IDE                           |✅                                                                        |✅                                                                                    |
-|Discover existing documentation in your codebase.                   |✅                                                                        |✅                                                                                    |
-|Review annotations easily when reviewing<br/><br>or writing new code|✅ Annotation + icon                                                      |✅ Icon, in the "Gutter"                                                              |
+|<br/>                                                       |VS Code                                                                  |JetBrains                                                                             |
+|------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|Install                                                     |[JetBrains marketplace](https://plugins.jetbrains.com/plugin/20716-swimm)|[VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=Swimm.swimm)|
+|Read all available docs right in your IDE                   |✅                                                                        |✅                                                                                     |
+|Discover existing documentation in your codebase            |✅                                                                        |✅                                                                                     |
+|Review annotations easily when reviewing or writing new code|✅ Annotation + icon                                                      |✅ Icon, in the "Gutter"                                                               |
 
 <br/>
 
@@ -30,7 +30,7 @@ For developers that means in the IDE.
 
 <br/>
 
-## How to get Started?
+## How to get started?
 
 Once installed, you will see Swimm's panel in your IDE.
 

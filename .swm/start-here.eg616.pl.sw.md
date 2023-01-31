@@ -39,7 +39,7 @@ A [playlist](https://docs.swimm.io/Features/Swimm-Playlists/) is a collection of
 5. [👀 Live Snippets](live-snippets.mio0y.sw.md)
 6. [🤓 Smart text](smart-text.fpz6g.sw.md)
 7. [🦄 Auto-Sync Magic ](auto-sync-magic.jyomo.sw.md)
-8. [IDE integrations](ide-integrations.o5dcr.sw.md)
+8. [👩‍💻 IDE integrations](ide-integrations.o5dcr.sw.md)
 
 
 <br/>

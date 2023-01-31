@@ -9,7 +9,7 @@ app_version: 1.1.0
 
 <br/>
 
-|## Example<br><br>Click on the tokens below. You can see exactly which file and repository this text references. Since they are synced with the repo, when the code changes, we will be able to update this reference for you or notify you of the code change, helping you maintain your docs up to date on each pull request.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|## Example<br><br>Click on the tokens below - they are synced with the repo. When the code changes, the live code references are tracked by Swimm to keep your documentation up to date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |In our repository `todo` we are using vanilla Javascript to create basic components that are common in modern frameworks.<br><br>We have created a `Template`<swm-token data-swm-token=":examples/vanilla-es6/src/template.js:5:6:6:`export default class Template {`"/> _class_ to handle the main view that renders the contents.<br><br>Our `View`<swm-token data-swm-token=":examples/vanilla-es6/src/view.js:9:6:6:`export default class View {`"/> _class_ emulates the rendering of a `Template`<swm-token data-swm-token=":examples/vanilla-es6/src/template.js:5:6:6:`export default class Template {`"/> and tracking the responsiveness.<br><br>The state of our app is managed by our own created `Store`<swm-token data-swm-token=":examples/vanilla-es6/src/store.js:3:6:6:`export default class Store {`"/>|
 
@@ -17,11 +17,11 @@ app_version: 1.1.0
 
 <br/>
 
-## Try it yourself!!
+## Try it yourself!
 
-1.  Enter to Edit Mode (if haven't already)
+1.  Go to edit mode.
     
-2.  Insert a backtick \` below in #3<br/>
+2.  Insert a backtick \` below and look for a class, function, or variable.<br/>
     \- Type the name a class, a function or a variable and select it (i.e "getNextNode").<br/>
     \- See how easy it is to code couple your docs!
 
