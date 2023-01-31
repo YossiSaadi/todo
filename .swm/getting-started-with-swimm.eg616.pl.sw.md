@@ -16,18 +16,12 @@ We’ve prepared a Playlist so you’ll get to know Swimm’s features up close.
 
 ### About this Playlist
 
-A Playlist is a collection of documents grouped together in a particular order.
+A [playlist](https://docs.swimm.io/Features/Swimm-Playlists/) is a collection of documents grouped together in a particular order.
 
 *   Playlists also include links, videos, Markdown files, and images and live right inside your repo.
     
 *   Swimm keeps track of progress in a Playlist, so you don’t have to remember where you’ve left off.
     
-
-#### **Why would I use a Playlist?**
-
-<br/>
-
-<br/>
 
 ### How to get started
 
@@ -41,12 +35,27 @@ A Playlist is a collection of documents grouped together in a particular order.
 1. [A quick into about Swimm](a-quick-into-about-swimm.vacve.sw.md)
 2. [Swimm Vs. other tools](swimm-vs-other-tools.uqpad.sw.md)
 3. [About this demo repository](about-this-demo-repository.y9z4z.sw.md)
+4. [⎯ Feature set ⎯](feature-set.h2snw.sw.md)
+5. [👀 Live Snippets](live-snippets.mio0y.sw.md)
+6. [🤓 Smart text](smart-text.fpz6g.sw.md)
+7. [🦄 Auto-Sync Magic ](auto-sync-magic.jyomo.sw.md)
+8. [IDE integrations](ide-integrations.o5dcr.sw.md)
 
 
 <br/>
 
 <!-- Summary - Do not remove this comment -->
-Swimm is a documentation solution for engineering teams that connects documentation seamlessly with code and ensures that it is always up-to-date. It has a patented Auto-sync feature that keeps documentation synced with the code as it evolves and changes. It also has a code-coupled editor with rich text, Markdown, and live code snippets embedded in the documentation. Additionally, it has IDE integrations which allow consuming documentation directly from the IDE, meaning it is easily accessible whenever and wherever it is needed.
+We have explored only some of Swimm's features. There are more!
+
+Swimm's mission is to "Move knowledge fast. Develop faster."
+
+It helps you to:
+
+*   Find the docs you need in the IDE
+    
+*   Integrate code into your docs
+    
+*   Trust your docs
 
 <br/>
 
