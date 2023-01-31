@@ -1,6 +1,6 @@
 ---
 id: eg616
-title: 1. Getting started with Swimm
+title: 🏁 Getting started with Swimm
 file_version: 1.1.1
 app_version: 1.1.0
 ---
@@ -8,33 +8,39 @@ app_version: 1.1.0
 <!-- Intro - Do not remove this comment -->
 ### 👋 Welcome
 
-Welcome to the world of **Swimm**, the knowledge management tool for code.<br/>
-In this short guide you will get to know Swimm and its abilities.
+Welcome to Swimm’s knowledge management tool for code.
+
+We’ve prepared a Playlist so you’ll get to know Swimm’s features up close.
+
+<br/>
 
 ### About this Playlist
 
-What you are reading right now is called a "**Playlist**".<br/>
-It is a collection of documents grouped together in a particular order.
+A Playlist is a collection of documents grouped together in a particular order.
 
-*   Learn and play around with the **demo repository** provided
+*   Playlists also include links, videos, Markdown files, and images and live right inside your repo.
     
-*   Learn about what is possible with the **Swimm webapp** and **IDE integrations**
+*   Swimm keeps track of progress in a Playlist, so you don’t have to remember where you’ve left off.
     
 
-### Ready to start?
-
-When you are ready, **connect your own repository** and see how Swimm can impact your teams productivity.<br/>
-So grab your floaties, and let's get started! 🏊
+#### **Why would I use a Playlist?**
 
 <br/>
+
+<br/>
+
+### How to get started
+
+*   💪 Play around with the **demo repository** provided so you can see Swimm in action
+    
+*   🤓 Learn about what you can do with Swimm’s **Web App** and **IDE integrations**.
 
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [About this demo repository](about-this-demo-repository.q3ey7.sw.md)
-2. [Swimm Vs. other tools](swimm-vs-other-tools.98z5a.sw.md)
-3. [∟ About this demo repository](about-this-demo-repository.lejrf.sw.md)
-4. [2. Feature set](https://swimm-web-app.web.app/repos/dummy-repo/playlists/2hk7q)
+1. [A quick into about Swimm](a-quick-into-about-swimm.vacve.sw.md)
+2. [Swimm Vs. other tools](swimm-vs-other-tools.uqpad.sw.md)
+3. [About this demo repository](about-this-demo-repository.y9z4z.sw.md)
 
 
 <br/>

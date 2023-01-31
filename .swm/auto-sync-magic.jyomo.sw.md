@@ -1,6 +1,6 @@
 ---
 id: jyomo
-title: "∟ 🦄 Auto-Sync Magic "
+title: "🦄 Auto-Sync Magic "
 file_version: 1.1.1
 app_version: 1.1.0
 ---
@@ -11,19 +11,29 @@ When your code changes, your documentation needs to be updated.
 
 <br/>
 
-|Change type |Examples                                                                                                                 |Detection|Manual Action                    |Automated|
-|------------|-------------------------------------------------------------------------------------------------------------------------|---------|---------------------------------|---------|
-|Minor change|· A **line change**<br/><br>· Renaming a **variable**<br/><br>· A change of **key-value** pairs                          |✅        |Accept Swimm’s<br/><br>suggestion|✅        |
-|Major change|· The **function** was deleted<br/><br>· The line **completely changed**<br/><br>· The **line moved** to a different file|✅        |Accept Swimm’s<br/><br>suggestion|❌        |
+|Change type |Examples                                                                                       |Detection|Manual Action                    |Automated|
+|------------|-----------------------------------------------------------------------------------------------|---------|---------------------------------|---------|
+|Minor change|· A **line change**<br/><br>· Renaming a **variable**<br/><br>· A change of **key-value** pairs|✅        |Accept Swimm’s<br/><br>suggestion|✅        |
+|Major change|· The **function** was deleted<br/><br>· The line **completely changed**                       |✅        |Accept Swimm’s<br/><br>suggestion|❌        |
 
 <br/>
 
-## Try it yourself!
-⚠️ In order to fix the snippets below, you need to enter "Edit Mode"
+<br/>
 
 ### Minor Change
 
-Swimm detects it and offers you to **accept the fix ✅.** Accept the "fix" below 👇.
+In the example below Swimm detected a minor change in the code.
+
+The developer changed 2 things:
+
+*   An "<li>" element to a "<div>".
+    
+*   Added a css class "view-template".
+    
+
+Swimm detects code changes and shows the diff.
+
+**Click "Accept" to "fix" it** (⚠️ you will need to enter "Edit Mode").
 
 <br/>
 
@@ -43,9 +53,15 @@ we're using the `escapeForHTML`<swm-token data-swm-token=":examples/vanilla-es6/
 
 <br/>
 
+<br/>
+
 ### Major Change
 
-In this example, multiple lines have been deleted. This is a **Radical** change. Fix this snippet 👇.
+In this example, the function has been completely refactored and caused a **radical** change of the original code.
+
+At this point, the person familiar with change should get a decision. Either to replace this snippet to the correct one, or remove it.
+
+**Fix this snippet 👇 - use the "Reselect" button below...**
 
 <br/>
 
@@ -72,7 +88,11 @@ This function `find`<swm-token data-swm-token=":examples/vanilla-es6/src/store.j
 
 <br/>
 
-<br/>
+## Voila!
+
+Your code-coupled elements are now updated in your doc.
+
+**The next step** would be to commit your changes to your repository, open a pull request and merge your branches for your team to have the latest documentation.
 
 <br/>
 

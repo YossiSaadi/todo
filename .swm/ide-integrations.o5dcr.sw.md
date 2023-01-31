@@ -1,6 +1,6 @@
 ---
 id: o5dcr
-title: ∟ IDE integrations
+title: IDE integrations
 file_version: 1.1.1
 app_version: 1.1.0
 ---
